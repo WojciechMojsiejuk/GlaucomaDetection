@@ -1,3 +1,7 @@
+./ACRIMA
+./Fundus_Train_Val_Data
+./ORIGA
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
